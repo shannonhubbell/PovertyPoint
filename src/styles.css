@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+#ui-bar { display: none; }
+body {
+  
+  --font-family-copy: "Open Sans", sans-serif;
+  --font-family-bbs: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  --color-bkgd: #EEEEEE;
+  --color-copy: #222222;
+  --color-dark: #000000;
+  --color-highlight: #003e29;
+  font-family: var(--font-family-bbs);
+  background-color: var(--color-bkgd);
+  color: var(--color-copy);
+  font-size: 15px;
+}
+#story {
+  margin: 3em;
+}
+.passage {
+  text-wrap: pretty;
+  strong {
+    font-weight: bold;
+  }
+  a {
+    font-weight: bold;
+    text-decoration: underline;
+    color: var(--color-highlight);
+  }
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  color: var(--color-highlight);
+  font-size: 1.5rem;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+}
