@@ -12,12 +12,12 @@ body {
   background-color: var(--color-bkgd);
   color: var(--color-copy);
   font-size: 15px;
+  border: 1px solid var(--coor-highlight);
 }
 #story {
   margin: 3em;
 }
 .passage {
-  text-wrap: pretty;
   strong {
     font-weight: bold;
   }

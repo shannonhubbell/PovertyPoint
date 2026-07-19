@@ -12,6 +12,7 @@ Poverty Point Free-Net
 }
 
 :: Start Page {"position":"75,75","size":"100,100"}
+<<type 5ms>>
 Please note that this archive of the ''Poverty Point Free-Net'' is provided for research and reference purposes by the ''University of New Orleans Historicity Investigation Lab'' (''UNOHIL'').
 
 The content contained was extracted from bulletin board system (BBS) backups and formatted for ease of browsing on modern devices, but is otherwise unaltered. Notes and internal discussion on the part of UNOHIL staff and students are clearly deliniated and attributed, and nothing stated therein shall be construed as an official UNOHIL position regarding the authenticity or historicity of the so-called ''Oak Grove Archive''.
@@ -19,29 +20,30 @@ The content contained was extracted from bulletin board system (BBS) backups and
 By clicking "I Understand" you are acknowledging that you have read this disclaimer.
 
 <<button [["I Understand"|Background]]>>I Understand<</button>>
+<</type>>
 
 :: Background {"position":"75,75","size":"100,100"}
 !Background
-
+<<type 5ms>>
 On April 26, 2039 ''Dr. Albert Sydney Hazred'' (born c. 1982) died of unknown causes during his weekly visit to the farmers market in the small town of Oak Grove, Louisiana.
 
 That Hazred had been a well-liked and friendly presence in Oak Grove for decades makes the differing accounts of his highly public demise difficult to explain.
 
 Back | [[Next|"Background 02"]]
-
+<</type>>
 
 
 :: Background 02 {"position":"75,75","size":"100,100"}
 !Background (cont.)
-
+<<type 5ms>>
 Hazred arrived at the open air farmers market at approximately 0930 CST. After several minutes of inspecting produce as well as greeting friends and neighbors, something rather dramatic happened to him. What that "something" was varies wildly depending on who you ask.
 
 [[Back|"Background"]] | [[Next|"Background 03"]]
-
+<</type>>
 
 :: Background 03 {"position":"125,75","size":"100,100"}
 !Background (cont.)
-
+<<type 5ms>>
 Albert Hazred may have:
 * stopped mid-sentence, closed his eyes, and slumped silently to the ground dead;
 * become crazed, tearing at his clothes and rambling about "ancient prophecy" before  collapsing;
@@ -50,32 +52,33 @@ Albert Hazred may have:
 That different first-hand accounts of Hazred's death may include one, some, or even __all__ of these elements is strange on its own. Stranger still is how Oak Grove, Louisiana has seemingly glossed over these contradictions.
 
 [[Back|"Background 02"]] | [[Next|"Background 04"]]
-
+<</type>>
 
 
 :: Background 04 {"position":"125,75","size":"100,100"}
 !Background (cont.)
-
+<<type 5ms>>
 The collective amnesia about and/or disinterest in the contradictory descriptions of this bizarre death among the townsfolk of Oak Grove is a rich topic for future anthropogical study.
 
 However, what concerns us for now is what was discovered after his demise. Found among Hazred's belongings was a box of swappable computer drive cartridges (SyQuest EZ 135) dating from 1996 to 1999. The carefully recovered contents of these drives are unremarkable, save for what appear to be the backup files of a custom coded and self-hosted dialup bulletin board system.
 
 [[Back|"Background 03"]] | [[Next|"Background 05"]]
+<</type>>
+
 
 :: Background 05 {"position":"125,75","size":"100,100"}
 !Background (cont.)
-
+<<type 5ms>>
 The contents of these archives tell us that the "Poverty Point Free-Net" (PPFN) served as a local forum and free internet access for a town to the south of Oak Grove called Poverty Point.
 
 Comparable to Oak Grove in size but culturally distinct, Poverty Point was built around and on top of the archaeological site of the same name: a 3,400-year-old complex of earthen mounds and ridges that are among the oldest human-made structures in North America.
 
-
 [[Back|"Background 04"]] | [[Next|"Background 06"]]
-
+<</type>>
 
 :: Background 06 {"position":"125,75","size":"100,100"}
 !Background (cont.)
-
+<<type 5ms>>
 The problem is that __the town of Poverty Point does not exist__.
 
 There is no town on top of the ancient structures and, ignoring the slave plantation that existed there at one time, there never has been a town called "Poverty Point" there. Hopefully there never will be, as the site is now a protected UNESCO World Heritage Site.
@@ -83,7 +86,7 @@ There is no town on top of the ancient structures and, ignoring the slave planta
 ''So that leaves us asking, why is there an online forum for a town that doesn't exist?''
 
 [[Back|"Background 05"]] | [[Browse the Archive|"Coming Soon"]]
-
+<</type>>
 
 
 :: Coming Soon {"position":"125,75","size":"100,100"}
